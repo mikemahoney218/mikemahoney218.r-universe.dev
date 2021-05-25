@@ -1,0 +1,26 @@
+[
+    {
+        "package": "terrainr",
+        "url": "https://github.com/ropensci/terrainr"
+    },
+    {
+        "package": "proceduralnames",
+        "url": "https://github.com/mikemahoney218/proceduralnames"
+    },
+    {
+        "package": "heddlr",
+        "url": "https://github.com/mikemahoney218/heddlr"
+    },
+    {
+        "package": "spacey",
+        "url": "https://github.com/mikemahoney218/spacey"
+    },
+    {
+        "package": "mvdf",
+        "url": "https://github.com/mikemahoney218/mvdf"
+    },
+    {
+        "package": "plantr",
+        "url": "https://github.com/mikemahoney218/plantr"
+    }
+]
