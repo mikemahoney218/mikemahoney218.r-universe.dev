@@ -20,6 +20,10 @@
         "url": "https://github.com/mikemahoney218/mvdf"
     },
     {
+        "package": "forthetrees",
+        "url": "https://github.com/mikemahoney218/forthetrees/"
+    },
+    {
         "package": "plantr",
         "url": "https://github.com/mikemahoney218/plantr"
     }
