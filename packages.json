@@ -17,14 +17,17 @@
     },
     {
         "package": "mvdf",
-        "url": "https://github.com/mikemahoney218/mvdf"
+        "url": "https://github.com/mikemahoney218/mvdf",
+        "subdir": "experimental"
     },
     {
         "package": "forthetrees",
-        "url": "https://github.com/mikemahoney218/forthetrees/"
+        "url": "https://github.com/mikemahoney218/forthetrees/",
+        "subdir": "experimental"
     },
     {
         "package": "plantr",
-        "url": "https://github.com/mikemahoney218/plantr"
+        "url": "https://github.com/mikemahoney218/plantr",
+        "subdir": "experimental"
     }
 ]
