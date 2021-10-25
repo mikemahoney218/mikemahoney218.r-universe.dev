@@ -5,8 +5,7 @@
     },
     {
         "package": "unifir",
-        "url": "https://github.com/mikemahoney218/unifir",
-        "subdir": "experimental"
+        "url": "https://github.com/mikemahoney218/unifir"
     },
     {
         "package": "proceduralnames",
@@ -22,17 +21,19 @@
     },
     {
         "package": "mvdf",
-        "url": "https://github.com/mikemahoney218/mvdf",
-        "subdir": "experimental"
+        "url": "https://github.com/mikemahoney218/mvdf"
     },
     {
         "package": "forthetrees",
-        "url": "https://github.com/mikemahoney218/forthetrees/",
-        "subdir": "experimental"
+        "url": "https://github.com/mikemahoney218/forthetrees/"
     },
     {
         "package": "plantr",
-        "url": "https://github.com/mikemahoney218/plantr",
-        "subdir": "experimental"
-    }
+        "url": "https://github.com/mikemahoney218/plantr"
+    },
+    {
+        "package": "lightgbm",
+        "url": "https://github.com/microsoft/LightGBM",
+        "subdir": "R-package"
+    },
 ]
