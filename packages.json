@@ -1,9 +1,5 @@
 [
     {
-        "package": "unifir",
-        "url": "https://github.com/ropensci/unifir"
-    },
-    {
         "package": "proceduralnames",
         "url": "https://github.com/mikemahoney218/proceduralnames"
     },
