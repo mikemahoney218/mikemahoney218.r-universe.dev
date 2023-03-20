@@ -1,9 +1,5 @@
 [
     {
-        "package": "waywiser",
-        "url": "https://github.com/mikemahoney218/waywiser"
-    },
-    {
         "package": "proceduralnames",
         "url": "https://github.com/mikemahoney218/proceduralnames"
     },
