@@ -1,9 +1,5 @@
 [
     {
-        "package": "rsi",
-        "url": "https://github.com/Permian-Global-Research/rsi"
-    },
-    {
         "package": "proceduralnames",
         "url": "https://github.com/mikemahoney218/proceduralnames"
     },
